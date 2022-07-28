@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "a6c4748a422bc351",
+    "type": "split",
+    "children": [
+      {
+        "id": "f77ed1d864aba468",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Algorithms/Merge Sort.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3aaab2edd54830ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f5cf898d82adbc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d355b8234c07637",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c86a034d4202f4a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4566b188a0b22250",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8db2ad704b9d56c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1d1b413c46b800a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Algorithms/Merge Sort.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f77ed1d864aba468",
+  "lastOpenFiles": [
+    "Algorithms/Insertion Sort Array.md",
+    "Problems/The Number of Weak Characters in a Game.md",
+    "Problems/Sum Array.md",
+    "Problems/Course Schedule III.md",
+    "5,5],[6,3],[3,6.md",
+    "Algorithms/Insertion Sort List.md",
+    "Algorithms/Merge Sort.md"
+  ]
+}
