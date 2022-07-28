@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "d2e69d5ae67e137e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a275d14f53aa293a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Binary Search/Vanilla Binary Search.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "01003176daa48fc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "20c95079cf693fe9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e6589831c358179",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0fc2fd1da2493e40",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fdc5a850985c98fb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7bf172f41e2163c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d87365bb956c2c8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2d27b8adb8865ef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Binary Search/Vanilla Binary Search.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8c89bc78b99e2cce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Binary Search/Vanilla Binary Search.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "25eb368578104fa3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a3d560424bf950fb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Binary Search/Vanilla Binary Search.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a275d14f53aa293a",
+  "lastOpenFiles": [
+    "Binary Search/Boundary Binary Search.md",
+    "Binary Search/Vanilla Binary Search.md",
+    "Templates/AlgoNote.md",
+    "Templates/Cornell.md",
+    "Getting Started/Quick Sort.md",
+    "Getting Started/Arithemetic Sequence and Getting the Sum.md",
+    "Getting Started/Hashmaps.md",
+    "Getting Started/Merge Sort.md",
+    "Link to AlgoMonster.md"
+  ]
+}
