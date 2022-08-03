@@ -22,11 +22,11 @@ struct Node {
 };
 
 int dfs(Node<int>* root, int max_sofar){
-  if(!root) return 0;
   int total = 0;
-  if(root->val >= max_sofar) total++;
-  total += dfs(root->left, std::max(max_sofar, root->val));
-  total += dfs(root->right, std::max(max_sofar, root->val));
+  if(root == nullptr) return 0;
+  if(root->val > max_sofar) total++;
+  total += dfs(root->left, std::max(root->val, max_sofar));
+  total += dfs(root->right, std::max(root->val, max_sofar));
   return total;
 }
 

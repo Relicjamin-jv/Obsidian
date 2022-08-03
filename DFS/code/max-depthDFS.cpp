@@ -23,7 +23,7 @@ struct Node {
 //will always return one higher than the actual depth. It counts nodes.
 int tree_max_depth(Node<int>* root) {
   if (root == nullptr) return 0;
-  return std::max(tree_max_depth(root->left), tree_max_depth(root->right)) + 1; //depth is the number of edges to the path from the root to the node
+  return std::max(tree_max_depth(root->left), tree_max_depth(root->right)) + 1;
 }
 
 // this function build a tree from input

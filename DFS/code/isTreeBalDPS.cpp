@@ -21,13 +21,13 @@ struct Node {
 };
 
 int height(Node<int>* tree) {
-  if(!tree) return 0;
-  
-  int left_height = height(tree->left);
-  int right_height = height(tree->right);
-  if(left_height == -1 || right_height == -1) return -1;
-  if(std::abs(left_height - right_height) > 1) return -1;
-  return std::max(left_height, right_height) + 1;
+  if(tree == nullptr) return 0;
+
+  int left_subtree = height(tree->left);
+  int right_subtree = height(tree->right);
+  if(left_subtree == -1 || right_subtree == -1) return -1;
+  if(std::abs(right_subtree - left_subtree) > 1) return -1;
+  return std::max(left_subtree, right_subtree) + 1; //need to return +1 to include this node height
 }
 
 bool is_balanced(Node<int>* tree) {
