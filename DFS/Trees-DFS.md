@@ -13,7 +13,7 @@ Date: Aug 2, 2022
 - *Descendent* - All the nodes that are reachable from the current node.
 - *Level* - the level of the node is the number of ancestors from the node to the root node. The root node has a level of 0.
 - *Depth* - The depth of a node is the number of edges on the path from the root of that node.
-- *Height* - The height of the node is the numnber of edges on the longest path from that node to a leaf. The height of a tree is the geight of its root node.
+- *Height* - The height of the node is the numnber of edges on the longest path from that node to a leaf. The height of a tree is the height of its root node.
 ![[Pasted image 20220802143638.png]]
 
 ##### Binary Tree:
