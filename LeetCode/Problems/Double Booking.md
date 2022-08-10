@@ -54,5 +54,5 @@ myCalendar.book(20, 30); // return True, The event can be booked, as the first e
 - Whenever a new booking wants to be placed we just want to make sure that the start time between each booking already is before the new booking start time. And each end time is after before the current new booking endtime.
 
 # Run Time / Space Time
-Run time - O
-Space time - O
+Run time - O(n)
+Space time - O(n)
