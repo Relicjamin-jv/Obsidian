@@ -1,3 +1,5 @@
+# Code
+```C++
 #include <algorithm> // copy
 #include <iostream> // boolalpha, cin, cout
 #include <iterator> // back_inserter, istream_iterator
@@ -56,3 +58,20 @@ int main() {
     bool res = valid_bst(root, nullptr, nullptr);
     std::cout << std::boolalpha << res << '\n';
 }
+```
+
+### Description
+A binary search tree is a binary tree with the property that any of its node's value is greater than or equal to _any_ node in its left subtree and less than or equal to _any_ node's value in its right subtree.
+
+Given a binary tree, determine whether it is a binary search tree.
+
+![](https://algomonster.s3.us-east-2.amazonaws.com/valid_bst.png)
+
+# Notes
+- A BST cannot have duplicate values.
+- The way to solve this is to keep in mind what do we want to know at the position of the node we are currently at. In this case if we are going down the left we want the next node to the left to be strictly less than the parent and vice versa going down the right.
+- Keeping in mind the last statement we also want to keep in mind that if we go left then right then we want a value that is more than the parent but not more than the parent of that parent beacause that grandparent states that all nodes in the left subtree are less than it. So there for the grandchild cannot be more in this case. Vice versa for other way included.
+
+# Run Time / Space Time
+Run time - O(n) have to run over every node to make sure it fits
+Space time - O
