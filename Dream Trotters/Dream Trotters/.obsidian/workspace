@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "617b7290e36a73ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "53b02df91766fd04",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Questions.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1462fc42565f8c9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c6746687ea2fa14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fcabff3ad583241",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d9c35b85db0ebd84",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e6cf59d7562fb11d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a48bbb5ea06f0ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be42fc9b75aced02",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Questions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "53b02df91766fd04",
+  "lastOpenFiles": [
+    "Questions.md"
+  ]
+}
