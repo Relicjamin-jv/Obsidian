@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Binary Search/Vanilla Binary Search.md",
+            "file": "LeetCode/Problems/342. Power of Four.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Binary Search/Vanilla Binary Search.md",
+                "file": "LeetCode/Problems/342. Power of Four.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Binary Search/Vanilla Binary Search.md",
+                "file": "LeetCode/Problems/342. Power of Four.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Binary Search/Vanilla Binary Search.md"
+                "file": "LeetCode/Problems/342. Power of Four.md"
               }
             }
           }
@@ -130,8 +130,8 @@
   },
   "active": "a275d14f53aa293a",
   "lastOpenFiles": [
-    "Binary Search/Boundary Binary Search.md",
     "Binary Search/Vanilla Binary Search.md",
+    "Binary Search/Boundary Binary Search.md",
     "Templates/AlgoNote.md",
     "Templates/Cornell.md",
     "Getting Started/Quick Sort.md",
