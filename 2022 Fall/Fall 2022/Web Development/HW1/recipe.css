@@ -1,0 +1,49 @@
+h2 {
+    color: blue;
+    padding-left: 1em;
+}
+
+#ingredients, #instructions {
+    font-style: italic;
+}
+
+a {
+    color:black;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+body {
+    font-family: "Lucida Console", monospace;
+}
+
+
+html {
+    background-color: whitesmoke;
+}
+
+p{
+    padding-left: 2em;
+}
+
+li{
+    margin: 1em;
+}
+
+ul{
+    padding-left: 4em;
+}
+
+h1 {
+    margin: 1em;
+}
+
+img {
+    padding-left: 2em;
+    width: 400px;
+    height: 500px;
+}
+
+footer{
+    text-align: center;
+}
