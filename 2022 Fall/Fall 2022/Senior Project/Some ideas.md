@@ -1,0 +1,2 @@
+1. Color code (custom color code per person, or have a ticket always have a color code by type)
+2. A way to add CV and to help the inventory issue is to have some kind of system that can update the inventory with automatically detetecting by weight/id the item with CV. This assumes the part is small enough to fit into some closed system.

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LeetCode/Problems/98. Validate Binary Search Tree.md",
+            "file": "LeetCode/Problems/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/Problems/98. Validate Binary Search Tree.md",
+                "file": "LeetCode/Problems/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/Problems/98. Validate Binary Search Tree.md",
+                "file": "LeetCode/Problems/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/Problems/98. Validate Binary Search Tree.md"
+                "file": "LeetCode/Problems/Untitled.md"
               }
             }
           }
@@ -130,6 +130,7 @@
   },
   "active": "a275d14f53aa293a",
   "lastOpenFiles": [
+    "LeetCode/Problems/98. Validate Binary Search Tree.md",
     "LeetCode/Problems/342. Power of Four.md",
     "LeetCode/Problems/326. Power of Three.md",
     "Binary Search/Vanilla Binary Search.md",
@@ -138,7 +139,6 @@
     "Templates/Cornell.md",
     "Getting Started/Quick Sort.md",
     "Getting Started/Arithemetic Sequence and Getting the Sum.md",
-    "Getting Started/Hashmaps.md",
-    "Getting Started/Merge Sort.md"
+    "Getting Started/Hashmaps.md"
   ]
 }

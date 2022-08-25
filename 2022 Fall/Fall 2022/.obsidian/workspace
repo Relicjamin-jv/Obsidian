@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Schedule.md",
+            "file": "Senior Project/Some ideas.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schedule.md",
+                "file": "Senior Project/Some ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Schedule.md",
+                "file": "Senior Project/Some ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Schedule.md"
+                "file": "Senior Project/Some ideas.md"
               }
             }
           },
@@ -136,6 +136,8 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "bcb1c7b7afcce540",
-  "lastOpenFiles": []
+  "active": "180310a7b7ef4c49",
+  "lastOpenFiles": [
+    "Schedule.md"
+  ]
 }
