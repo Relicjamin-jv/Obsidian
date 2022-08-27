@@ -1,0 +1,81 @@
+- Player can move in all 8 cardinal directions
+- Camera follows player, but stops and does not go out of bounds of the current map.
+	- Is it like super mario sega where each map is only x by x big?
+- Implement y-sorting (The player shows in the world as one would expect)
+	- Grass is underneath
+	- Tree and other objects are on the same level, however, it updates what is shown by where the position of the player is.
+- Player can interact with npc and objects.
+	- Make a universe dialog system would be for coding structure.
+	- Colors change depending on what the player character is feeling.
+		- Any important characters will have this format to the chat bubble
+		- ![[Pasted image 20220827112321.png]]
+- There are secondary quests and hidden items that the user can find.
+	- Do these user found things give boneses?
+	- Do these items get added to the users inventory?
+	- Are the Wasserberg mountains reachable in chapter one?
+	- Certain parts of the map can be destroyed(Part of chaper one?)
+	- Player should be able to move around the map at their own discression.
+		- This may be to explore or find missed loot.
+- There will be a team system of 4 characters that the user can interact with.
+	- These characters follow in an order that can be switched by the user
+	- The two front characters are the two the fight enemies
+	- Characters that the player will use have 2 perks each and a color assoicaited with them
+- Players can see what perk they have at the top right of the screen (A backlog item, does not come into effect untill chapter 2)
+	- Perks can be activated with the action button, and switched with the switch button
+	- Perks when not activated will have an opacity of 50%
+	- Whole group is effected by the perk
+- Inventory
+	- Money is shown as the first number and will have a cap at 9999
+	- Next is time spent playing game, follows the format of hr:min
+	- Location of player in the world
+	- Then options
+	- Quit Game
+	- ![[Pasted image 20220827113234.png]]
+	- If open is hit then it will open more options for the player to choose from
+		- ![[Pasted image 20220827113329.png]]
+		- Object menu
+			- Show the four team members (if team members are not apearent yet then they will be missing and not show up)
+			- Left side for healing, ap (Refilling)
+			- Right side are items that are not useable as a consumable. Instead used for unlocking doors, revealing secrets, etc...
+			- In the demo only, objects, equipments and stats are shown
+			- ![[Pasted image 20220827113725.png]]
+		- Equipment menu
+			- Shows what wearables that the user has found and collected in the world
+			- ![[Pasted image 20220827113840.png]]
+		- Statistics menu
+			- Show health, special, strength, protection, and luck
+			- Underneath are two sections for wearables 
+			- Right side is the characters passport
+				- Fname
+				- Lname
+				- Home Island
+				- Address
+			- How does one navigate the statistic page?
+- System requirements
+	- Base res is 240x160 (3:2 aspect ratio)
+	- Max res is 1920x1080 (16:9 aspect ration)
+	- Keep to GBA aspect no matter what
+	- These ratios match? 
+		- One solution is to update the base ratio to match the 16:9 (X - doesn't work with requirments)
+		- Second solution is to have a border on the top and bottom 
+- Combat
+	- Only the first two characters in the order are thrown into the fight
+	- Top right corner shows what the player is hovering over chosing to do
+		- Does the text just change or does it go out and come back in
+	- Bottom left shows health and sp (no sp in demo, however it's still shown)
+	- 4 round bubbles are shown to the player when they are chosing what to do.
+		- Attack, objects menu, run(lose 30 $), formation (2 players in the demo)
+		- ![[Pasted image 20220827115457.png]]
+	- Attack window
+		- Basic attacks are shown first that cost no sp then seperated by a white line. Attacks after that are attacks that cost sp
+		- Sp attacks do more damage then non sp attacks
+			- ![[Pasted image 20220827115600.png]]
+	- When being attacked or attacking a qte will apear that will have the player hitting the action button.
+		- If user hits it at the right moment it will do full dmg 
+		- If user is late it will do 1/4 the damage and show an anitmation of the char stumbling
+		- If user is to early then the player will fall and do no damage
+		- When being attacked the enemy will show signs of where they are going to attack
+			- If enemy attacks up then dont act, enemy will miss
+			- If enemy attacks down then act, air dodge. If timed right and player lands on top of enemy and does damage.
+	- Nothing for special attacks
+		- Not implemented in demo (maybe if we have extra time)
