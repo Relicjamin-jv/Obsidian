@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DFS/Untitled.md",
+            "file": "LeetCode/Problems/637. Average of Levels in Binary Tree.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFS/Untitled.md",
+                "file": "LeetCode/Problems/637. Average of Levels in Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DFS/Untitled.md",
+                "file": "LeetCode/Problems/637. Average of Levels in Binary Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFS/Untitled.md"
+                "file": "LeetCode/Problems/637. Average of Levels in Binary Tree.md"
               }
             }
           }
@@ -131,6 +131,7 @@
   "active": "a275d14f53aa293a",
   "lastOpenFiles": [
     "LeetCode/Problems/200. Number of Islands.md",
+    "DFS/Untitled.md",
     "LeetCode/Problems/108. Convert Sorted Array to Binary Search Tree.md",
     "LeetCode/Problems/869. Reordered Power of 2.md",
     "LeetCode/Problems/30. Substring with Concatenation of All Words.md",
@@ -138,7 +139,6 @@
     "LeetCode/Problems/Sum Array.md",
     "LeetCode/Problems/Double Booking.md",
     "LeetCode/Problems/Course Schedule III.md",
-    "LeetCode/Problems/1338. Reduce Array Size to The Half.md",
-    "LeetCode/Problems/804. Unique Morse Code Words.md"
+    "LeetCode/Problems/1338. Reduce Array Size to The Half.md"
   ]
 }
