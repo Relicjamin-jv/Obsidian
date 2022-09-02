@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Senior Project/Some ideas.md",
-            "mode": "source",
+            "file": "Todo/To do.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Senior Project/Some ideas.md",
+                "file": "Todo/To do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Senior Project/Some ideas.md",
+                "file": "Todo/To do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Senior Project/Some ideas.md"
+                "file": "Todo/To do.md"
               }
             }
           },
@@ -138,6 +139,9 @@
   },
   "active": "180310a7b7ef4c49",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Todo/To do.md",
+    "Senior Project/Some ideas.md",
     "Schedule.md"
   ]
 }
