@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LeetCode/Problems/637. Average of Levels in Binary Tree.md",
+            "file": "LeetCode/Problems/The Number of Weak Characters in a Game.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/Problems/637. Average of Levels in Binary Tree.md",
+                "file": "LeetCode/Problems/The Number of Weak Characters in a Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/Problems/637. Average of Levels in Binary Tree.md",
+                "file": "LeetCode/Problems/The Number of Weak Characters in a Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/Problems/637. Average of Levels in Binary Tree.md"
+                "file": "LeetCode/Problems/The Number of Weak Characters in a Game.md"
               }
             }
           }
@@ -130,6 +130,7 @@
   },
   "active": "a275d14f53aa293a",
   "lastOpenFiles": [
+    "LeetCode/Problems/637. Average of Levels in Binary Tree.md",
     "LeetCode/Problems/200. Number of Islands.md",
     "DFS/Untitled.md",
     "LeetCode/Problems/108. Convert Sorted Array to Binary Search Tree.md",
@@ -138,7 +139,6 @@
     "LeetCode/Problems/The Number of Weak Characters in a Game.md",
     "LeetCode/Problems/Sum Array.md",
     "LeetCode/Problems/Double Booking.md",
-    "LeetCode/Problems/Course Schedule III.md",
-    "LeetCode/Problems/1338. Reduce Array Size to The Half.md"
+    "LeetCode/Problems/Course Schedule III.md"
   ]
 }

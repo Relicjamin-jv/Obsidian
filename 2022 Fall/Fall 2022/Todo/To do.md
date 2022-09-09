@@ -30,6 +30,13 @@ sort by start
 not done
 tags include SeniorProject
 ```
+# Code Practive TODO
+```tasks
+sort by start
+not done
+tags include CodePractice
+```
+
 # TODO
 - [ ] Security: Ch 2, 20 📅 2022-09-06 #Security
 - [ ] Security: Ch 2, 21 📅 2022-09-21 #Security
@@ -42,13 +49,26 @@ tags include SeniorProject
 - [ ] Security: Ch 10 📅 2022-11-17 #Security
 - [ ] Security: Ch 6 📅 2022-12-1 #Security
 - [ ] Security: Ch 6 📅 2022-12-06 #Security
-- [ ] Web: Quiz 1 📅 2022-09-07 #Web
+- [x] Web: Quiz 1 #Web 📅 2022-09-07 ✅ 2022-09-07
 - [ ] Web: HW 2 📅 2022-09-13 #Web
-- [ ] Stat: Mean, median & Mode videa 📅 2022-09-05 #Statistic
-- [ ] Stat: Mean of distributions 📅 2022-09-05 #Statistic
-- [ ] Stat: Measures of Spread 📅 2022-09-02 #Statistic
-- [ ] Stat: Var of population 📅 2022-09-07 #Statistic
-- [ ] Availability Survey #SeniorProject 📅 2022-09-02
-- [ ] SP: Reading Design Priciples 📅 2022-09-08 #SeniorProject
-- [ ] SP: Re visit representative tasks 📅 2022-09-08 #SeniorProject 
-- [ ] SP: UI Flow Diagram 📅 2022-09-08 #SeniorProject 
+- [x] Stat: Mean, median & Mode videa #Statistic 📅 2022-09-05 ✅ 2022-09-06
+- [x] Stat: Mean of distributions #Statistic 📅 2022-09-05 ✅ 2022-09-06
+- [x] Stat: Measures of Spread #Statistic 📅 2022-09-02 ✅ 2022-09-07
+- [x] Stat: Var of population #Statistic 📅 2022-09-07 ✅ 2022-09-07
+- [x] Availability Survey #SeniorProject 📅 2022-09-02 ✅ 2022-09-03
+- [x] SP: Reading Design Priciples #SeniorProject 📅 2022-09-08 ✅ 2022-09-07
+- [x] SP: Re visit representative tasks #SeniorProject 📅 2022-09-08 ✅ 2022-09-07
+- [x] SP: UI Flow Diagram #SeniorProject 📅 2022-09-08 ✅ 2022-09-07
+- [x] HW 1 Security #Security 📅 2022-09-08 ✅ 2022-09-08
+- [ ] Advent of Code #CodePractice 🔁 every week on Tuesday 📅 2022-09-13
+- [ ] Leetcode #CodePractice 🔽 🔁 every day 📅 2022-09-08
+- [x] Leetcode #CodePractice 🔽 🔁 every day 📅 2022-09-07 ✅ 2022-09-08
+- [ ] 6-8:30 20 Min presentation #SeniorProject 📅 2022-11-09
+- [x] Grade Data Structures #Grading 🔼 📅 2022-09-11 ✅ 2022-09-09
+- [x] Comparing z scores #Statistic 📅 2022-09-09 ✅ 2022-09-08
+- [x] Standard Normal Table #Statistic 📅 2022-09-09 ✅ 2022-09-08
+- [x] Standard Normal Table for proportion between values #Statistic 📅 2022-09-09 ✅ 2022-09-08
+- [x] Normal Distrbution Problem #Statistic 📅 2022-09-09 ✅ 2022-09-08
+- [ ] Read Textbook #Statistic 📅 2022-09-09
+- [ ] Update Resume 📅 2022-09-08
+- [ ] Security Quiz 1 #Security 📅 2022-09-13
