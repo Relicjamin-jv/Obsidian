@@ -30,6 +30,12 @@ sort by start
 not done
 tags include SeniorProject
 ```
+# IOS TODO
+```tasks
+sort by start
+not done
+tags include IOS
+```
 # Code Practive TODO
 ```tasks
 sort by start
@@ -38,7 +44,7 @@ tags include CodePractice
 ```
 # Misc.
 - [ ] Make career fair sheet of who I want to meet! 📅 2022-09-20
-- [ ] Print out resume's 📅 2022-09-20
+- [x] Print out resume's 📅 2022-09-20 ✅ 2022-09-19
 - [ ] Clark assoiciates meeting ⏳ 2022-09-20 12:30 - 1:30pm
 # TODO
 - [x] Security: Ch 2, 20 #Security 📅 2022-09-06 ✅ 2022-09-09
@@ -94,3 +100,4 @@ tags include CodePractice
 - [x] Statistics Exam 1 Study Guide #Statistic 📅 2022-09-19 ✅ 2022-09-19
 - [ ] Statistics HW set 2 📅 2022-09-19 #Statistic 
 - [x] Find 4 sources, 2 similar applications, 2 articles #SeniorProject 📅 2022-09-18 ✅ 2022-09-17
+- [ ] IOS HW 2 📅 2022-09-26 #IOS
