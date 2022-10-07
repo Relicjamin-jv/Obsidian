@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Senior Project/Cognitive Walkthrough.md",
+            "file": "Todo/To do.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Senior Project/Cognitive Walkthrough.md",
+                "file": "Todo/To do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Senior Project/Cognitive Walkthrough.md",
+                "file": "Todo/To do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Senior Project/Cognitive Walkthrough.md"
+                "file": "Todo/To do.md"
               }
             }
           },
@@ -139,10 +139,10 @@
   },
   "active": "180310a7b7ef4c49",
   "lastOpenFiles": [
+    "Senior Project/Cognitive Walkthrough.md",
     "Senior Project/Some ideas.md",
     "Todo/To do.md",
     "Schedule.md",
-    "Senior Project/Cognitive Walkthrough.md",
     "Untitled.md",
     "Untitled 2.md",
     "Untitled 1.md",

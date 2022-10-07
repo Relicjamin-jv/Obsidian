@@ -75,7 +75,8 @@ tags include CodePractice
 - [x] Advent of Code #CodePractice 🔁 every week on Tuesday 📅 2022-09-27 ✅ 2022-09-28
 - [x] Advent of Code #CodePractice 🔁 every week on Tuesday 📅 2022-09-20 ✅ 2022-09-21
 - [x] Advent of Code #CodePractice 🔁 every week on Tuesday 📅 2022-09-13 ✅ 2022-09-14
-- [ ] Leetcode #CodePractice 🔽 🔁 every day 📅 2022-10-05
+- [ ] Leetcode #CodePractice 🔽 🔁 every day 📅 2022-10-06
+- [x] Leetcode #CodePractice 🔽 🔁 every day 📅 2022-10-05 ✅ 2022-10-07
 - [x] Leetcode #CodePractice 🔽 🔁 every day 📅 2022-10-04 ✅ 2022-10-05
 - [x] Leetcode #CodePractice 🔽 🔁 every day 📅 2022-10-03 ✅ 2022-10-03
 - [x] Leetcode #CodePractice 🔽 🔁 every day 📅 2022-10-02 ✅ 2022-10-03
@@ -129,9 +130,9 @@ tags include CodePractice
 - [x] Advent of Code Peer Code #CodePractice 🔁 every week on Monday 📅 2022-09-26 ✅ 2022-09-28
 - [x] Senior Project Exam 1 #SeniorProject 📅 2022-09-29 ✅ 2022-10-03
 - [x] Homework 3 #IOS 📅 2022-10-03 ✅ 2022-10-03
-- [ ] CW Have to take to writing center, 3-8pm when mon-thur 📅 2022-10-10 #SeniorProject 
-- [ ] Stat HW 📅 2022-10-07 #Statistic 
-- [ ] Statistics Sept 16th Videos/HW 📅 2022-10-05 #Statistic 
+- [x] CW Have to take to writing center, 3-8pm when mon-thur #SeniorProject 📅 2022-10-10 ✅ 2022-10-07
+- [x] Stat HW #Statistic 📅 2022-10-07 ✅ 2022-10-07
+- [x] Statistics Sept 16th Videos/HW #Statistic 📅 2022-10-05 ✅ 2022-10-07
 - [ ] Stat sept. 19, 21, 23 📅 2022-10-06 #Statistic 
 - [ ] Stat sept 26, 28 📅 2022-10-07 #Statistic 
 - [ ] Project 2 ⏫ 📅 2022-10-25 #Security 
